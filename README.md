@@ -8,3 +8,8 @@
 * Rich industry experience as applied Data Analyst and Data Scientist
 * Experience in credit risk model building, market response model building, social media analytics, revenue forecasting, and machine learning
 * Post Graduate in Applied Statistics and Informatics from IIT Bombay
+
+# Corporate Batches
+* 90 corporate batches
+* 25 copanies 
+* 2000 participants 
