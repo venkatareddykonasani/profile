@@ -13,3 +13,6 @@
 * 90 corporate batches
 * 25 copanies 
 * 2000 participants 
+
+# Download the complete profile from this link 
+https://github.com/venkatareddykonasani/profile/blob/master/Profile_Venkat_Reddy_Konasani.pdf
